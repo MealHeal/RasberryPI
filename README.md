@@ -1,5 +1,5 @@
 # RasberryPI
-# PROJECT TITLE: Introduction to RasbberyPI and Application
+# PROJECT TITLE: Developing Soft and Parallel Programming Skills Using Project-Based Learning
 # TEAM MEMBERS
   Ailany Icassatti  
   Hashim Amin  
