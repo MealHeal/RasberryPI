@@ -1,4 +1,4 @@
-# RasberryPI
+# CSC3210 - ARMStrong
 # PROJECT TITLE: Developing Soft and Parallel Programming Skills Using Project-Based Learning
 # TEAM MEMBERS
   Ailany Icassatti  
